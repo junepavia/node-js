@@ -1,5 +1,5 @@
-# first-git-tutorial
-tutorials for git and github
+# NODE JS
+tutorials for NODE JS
 
 # Author
 June Rodney Pavia
