@@ -7,3 +7,32 @@ June Rodney Pavia
 
 # Version
 1.1
+
+# ROADMAP
+
+1. Node JS fundamental
+2. File I/O
+3. Web Servers
+4. ExpressJS
+5. Master project
+6. Performace and scale
+7. Authentication
+8. Databases
+9. Restful API's
+10. Deployment and CI/CD
+11. Production + CLOUD
+12. GraphQL
+13. Web Sockets
+14. Dino
+15. TypeScript
+
+# Resources
+https://academy.zerotomastery.io/courses/1206554/lectures/31844314
+
+# RUNTIME
+Javascript Environment
+
+#LIBUV
+
+# WINDOW
+alert
