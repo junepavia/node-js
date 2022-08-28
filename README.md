@@ -37,7 +37,7 @@ Javascript Environment
 # WINDOW
 alert
 
-#NODE REPL
+# NODE REPL
 R-ead
 E-val
 P-rint
@@ -46,12 +46,12 @@ L-oop
 parsing 
 v8 js engine breakdown js code and understand different parts of it
 
-#Questions?
+# Questions?
 Process.argv
 fileStack
 hoisting - https://www.youtube.com/watch?v=AplVrrwY1TI
 
-#Browser VS Node
+# Browser VS Node
 
 window == global
 document == process
