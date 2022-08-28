@@ -1,6 +1,8 @@
 # NODE JS
 tutorials for NODE JS
 
+![alt text](https://github.com/junepavia/node-js/blob/master/image.jpg?raw=true)
+
 # Author
 June Rodney Pavia
 
@@ -61,3 +63,7 @@ navigator == require()
 
 # Node JS fundamentals
 1. Internals
+A. Javascript Engines - NODE JS API's - NODE JS Bindings
+LIBUV + V8
+http is one of the function in node js api
+asynchronous I/O node is best at
