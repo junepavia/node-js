@@ -45,3 +45,19 @@ L-oop
 
 parsing 
 v8 js engine breakdown js code and understand different parts of it
+
+#Questions?
+Process.argv
+fileStack
+hoisting - https://www.youtube.com/watch?v=AplVrrwY1TI
+
+#Browser VS Node
+
+window == global
+document == process
+history == module
+location == __filename
+navigator == require()
+
+# Node JS fundamentals
+1. Internals
