@@ -36,3 +36,12 @@ Javascript Environment
 
 # WINDOW
 alert
+
+#NODE REPL
+R-ead
+E-val
+P-rint
+L-oop
+
+parsing 
+v8 js engine breakdown js code and understand different parts of it
