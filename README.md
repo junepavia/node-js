@@ -1,7 +1,7 @@
+![alt text](https://github.com/junepavia/node-js/blob/master/image.jpg?raw=true)
+
 # NODE JS
 tutorials for NODE JS
-
-![alt text](https://github.com/junepavia/node-js/blob/master/image.jpg?raw=true)
 
 # Author
 June Rodney Pavia
@@ -67,3 +67,13 @@ A. Javascript Engines - NODE JS API's - NODE JS Bindings
 LIBUV + V8
 http is one of the function in node js api
 asynchronous I/O node is best at
+
+2. Asynchronous
+code that doesnt necessarily run line by line
+learning things side by side
+callback function?
+
+3. blocking vs Non-blocking Input/Output
+
+4. Multi-threading, process and threads
+process [code] [thread(callstack)]
