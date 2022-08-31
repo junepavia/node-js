@@ -137,4 +137,34 @@ the web browser or the node on the other hand allows us to use async code so we 
 
 async function is a function we can execute later
 
+## Promise
+A promise is an object that may produce a single value sometime in the future, either a resolve value or a reason why that is not resolve(rejected)
+
+promises are good for asynchronous programming
+Fake API for testing and prototyping:
+
+> https://jsonplaceholder.typicode.com/
+
+### Syntax
+```
+const promise = new Promise(resolve, reject) => {
+    resolve();
+    reject();
+}
+promise.then(result => result).then(result => result).catch(error => error);
+```
+
+### 3 State of a PROMISE
+1. fulfilled
+2. rejected
+3. pending
+
+To fully grasp promises we must understand what we have before promise and that is **CALLBACK**
+
+**CALLBACKS** 
+> When something is done execute this piece of code
+callback pyramid of Doom is a nested callbacks
+
+
+
 # Nodes Fundamental: Module System
