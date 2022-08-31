@@ -26,6 +26,7 @@
 
 // Promise.all([promise, promise2, promise3, promise4])
 // .then(values => console.log(values));
+const fetch = require('node-fetch');
 
 const urls = [
     'https://jsonplaceholder.typicode.com/users',
