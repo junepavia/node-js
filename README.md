@@ -168,3 +168,17 @@ callback pyramid of Doom is a nested callbacks
 
 
 # Nodes Fundamental: Module System
+
+# POSTMAN
+> What is POSTMAN ?
+```
+It is an API client use to develop, test, share and document API.
+
+Step 1: Open Postman webpage - https://www.getpostman.com/
+
+Step 2: Create a free account
+
+Step 3: Activate the account
+
+Step 4: Download and install postman app
+```
