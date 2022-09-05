@@ -182,3 +182,7 @@ Step 3: Activate the account
 
 Step 4: Download and install postman app
 ```
+> 📚 https://github.com/vdespa/introduction-to-postman-course/blob/main/course-notes.md
+
+> https://www.youtube.com/watch?v=VywxIQ2ZXw4
+
