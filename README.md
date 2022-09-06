@@ -186,3 +186,9 @@ Step 4: Download and install postman app
 
 > https://www.youtube.com/watch?v=VywxIQ2ZXw4
 
+## MIDDLEWARE
+
+```
+https://developer.okta.com/blog/2018/09/13/build-and-understand-express-middleware-through-examples#:~:text=Middleware%20literally%20means%20anything%20you,or%20path)%20it's%20attached%20to.
+```
+
