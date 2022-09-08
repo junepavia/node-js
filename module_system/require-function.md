@@ -18,4 +18,12 @@ Lets you use node built-in functionalities.
 ```
 
 ### CREATING OUR OWN MODULES
+Exporting modules by calling
+> modue.exports = { moduleName: moduleRename };
+Importing modules by calling
+> const fileName = require('./fileName);
+```
+file extension is optional since node search for it as js, json, node extensions.
+Note that it is relative path
+```
 
