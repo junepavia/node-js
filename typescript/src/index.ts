@@ -1,5 +1,17 @@
 const enum size { small, medium, large };
 
+const employee: {
+    readonly id: number,
+    name: string,
+    retire: (date: Date) => void;
+} = {
+    id: 1,
+    name: '',
+    retire: (date: Date) => {
+        console.log(date);
+    }
+};
+
 const mySize: size = size.large;
 console.log(mySize)
 
