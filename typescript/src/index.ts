@@ -26,3 +26,12 @@ function calculateTax(income: number, taxYear = 2022): number {
 }
 
 console.log(calculateTax(10_000));
+
+function kgToLbs(weight: number | string): number {
+    //narrowing
+    if(typeof weight === 'number') {
+        return weight * 2.2
+    } else {
+        return parseInt(weight) * 2.2;
+    }
+}
