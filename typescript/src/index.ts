@@ -1,10 +1,12 @@
 const enum size { small, medium, large };
 
-const employee: {
+type Employee = {
     readonly id: number,
     name: string,
     retire: (date: Date) => void;
-} = {
+}
+
+const employee: Employee = {
     id: 1,
     name: '',
     retire: (date: Date) => {
